@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">📓 Keeper-app</h1>
-  <p align="center">Project for practise of mapping data to components.</p>
+  <p align="center">Project for mastering React.</p>
 <br>
 <br>
 
