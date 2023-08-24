@@ -8,7 +8,7 @@
 <br>
 
 ## What is this project about?
-This is a Keeper App with header, note and footer components.
+This is a Keeper App with header, note and footer components. You are able to add notes and delete them from the app. When we add a note with a new title and when we click the add button it clears those inputs and pushes a new note into the array of notes. When you click delete button, the note is going to be removed.
 
 ## Technologies used
 - HTML
