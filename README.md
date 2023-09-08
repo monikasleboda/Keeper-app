@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/monikasleboda/Keeper-app"><img src="images/screenshot.png" alt="screenshot"></a>
+<a href="https://github.com/monikasleboda/Keeper-app"><img src="images/screenshot_updated.png" alt="screenshot"></a>
 </p>
 
 <h1 align="center">📓 Keeper-app</h1>
